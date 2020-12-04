@@ -12,7 +12,7 @@ How different was Jesus or Paul? Different enough that we misunderstand what is 
 
 And how foreign was Plato and Aristotle, Cicero and Caesar Augustus? Can we understand?
 
-How ‘past’ does it have to be to be foreign? Descartes? Voltaire? Thomas Jefferson? Lincoln?Marx? Woodrow Wilson? FDR? Kennedy?
+How ‘past’ does it have to be to be foreign? Descartes? Voltaire? Thomas Jefferson? Lincoln? Marx? Woodrow Wilson? FDR? Kennedy?
 
 Does it matter? Can we either ignore the past, or reinterpret it by reading everything as it it had been written yesterday? Or today?
 
