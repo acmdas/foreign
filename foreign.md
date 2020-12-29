@@ -4,6 +4,8 @@ Notes for the book about Barfield’s/Harold’s notions about consciousness and
 
 *The past is a foreign country; they do things differently there* L.P. Hartley, *The Go-Between* (1953)
 
+## Quote Notes
+
 Leslie Poles Hartley was born on 30 December, 1895 in Whittlesey, Cambridgeshire.
 
 That’s certainly a striking image—the past being a foreign country...is it true? How foreign? How past? Five hundred years? How foreign was Tudor England? How different from us was Shakespear? How much do we misunderstand his plays if we read them as being by someone like us who just uses ‘thees and thous’ instead of ‘you and yours’?
@@ -16,7 +18,7 @@ How ‘past’ does it have to be to be foreign? Descartes? Voltaire? Thomas Jef
 
 Does it matter? Can we either ignore the past, or reinterpret it by reading everything as it it had been written yesterday? Or today?
 
-And what about today, which will be the foreign past to tomorrow? Looking ahead with current idealist philosophy, psychology of consciousness, leading-edge physics. Where are we heading? Are we stuck here? Carlo Rovelli says that there are no objects, only events. Nothing *is*, everything *happens*
+And what about today, which will be the foreign past to tomorrow? Looking ahead with current idealist philosophy, psychology of consciousness, leading-edge physics. Where are we heading? Are we stuck here? Carlo Rovelli says that there are no objects, only events. Nothing *is*, everything *happens*.
 
 ## Sources
 
@@ -45,3 +47,19 @@ While the quote “The past is a foreign country...” refers to, well, the past
 The project will need to address both the past and the future, taking into consideration C.S. Lewis’s saying, “You can’t go back and change the beginning, but you can start where you are and change the ending.”
 
 What are the consequences of accepting, and researching, the past with the understanding that human consciousness is constantly evolving, and to meaningfully read, mark and inwardly digest” what the past is saying, or was saying, we must try to understand and accept those differences. And we need to be aware as we look at our own Alpha and Beta thinking, that we are creating “reality” with our own, idiosyncratic consciousness, idiosyncratic not only because or our point in the evolutionary flow, but also as individuals, with our own set of experiences and influences. What does that mean for us at this moment, and how do we deal with the idea that we create “time” which doesn’t really exist!
+
+### Science
+#### Physics
+##### Quantum Mechanics
+###### Carlo Rovelli
+The Order of Time
+Reality is Not What It Seems: The Journey to Quantum Gravity
+Seven Brief Lessons on Physics
+###### Roger Penrose
+The Road to Reality
+The Emperor’s New Mind
+Shadows of the Mind
+
+###### Julian Barbour
+The End of Time
+#### Consciousness
