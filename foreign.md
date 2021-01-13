@@ -40,13 +40,30 @@ Introduced by Bruce Charlton
 
 #### Saving the Appearances
 
+“It is easy to appreciate that there is no such thing as an unseen rainbow. It is not so easy to grasp that there is no such thing as an unheard noise. Or rather it is easy to grasp, but difficult to keep hold of. And this is still more the case, when we come to the sense of touch. Obvious as it may be to reflection that a system of waves or quanta or discrete particles is no more like solid matter than waves of air are like sound, or raindrops like a rainbow, it is not particularly easy to grasp, and it is almost impossible to keep in mind, that there is no such thing as unfelt solidity.¹ It is much more convenient, when we are listening for example to the geologist, to forget what we learnt about matter from the chemist and the physicist. But it really will not do. We cannot go on for ever having it both ways.” – Chapter 3
+
+### Carlo Rovelli
+
+#### The Order of Time
+
+#### Seven Brief Lessons on Physics
+
+#### Reality is Not What it Seems
+
 20201207
 
 While the quote “The past is a foreign country...” refers to, well, the past, and is significant to both Barfield and Harold, both also make it clear that the future is a foreign country as well. In fact, as Barfield says in *Saving the Appearances* (Chapter III, p. 23) in reference to the way that we accept the testimony of current physics about the increasingly weird nature of “reality” including that of Carlo Rovelli in *The Order of Time* that there really is no time, there are no objects, only events, and yet we ignore that testimony immediately as we turn to our “regular” lives, “But it really will not do. We cannot go on for ever having it both ways.”
 
+Note that Troward begins Edinburgh Lectures by pointing out that the table in front of him seems solid and isn’t. Also note that Troward led me to TheSS.
+
 The project will need to address both the past and the future, taking into consideration C.S. Lewis’s saying, “You can’t go back and change the beginning, but you can start where you are and change the ending.”
 
 What are the consequences of accepting, and researching, the past with the understanding that human consciousness is constantly evolving, and to meaningfully read, mark and inwardly digest” what the past is saying, or was saying, we must try to understand and accept those differences. And we need to be aware as we look at our own Alpha and Beta thinking, that we are creating “reality” with our own, idiosyncratic consciousness, idiosyncratic not only because or our point in the evolutionary flow, but also as individuals, with our own set of experiences and influences. What does that mean for us at this moment, and how do we deal with the idea that we create “time” which doesn’t really exist!
+
+Polarity is a topic that he took from Coleridge.
+
+#### What Coleridge Thought
+Coleridge topics important to Barfield include imagination and polarity.
 
 ### Science
 #### Physics
