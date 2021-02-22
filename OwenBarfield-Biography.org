@@ -1,11 +1,13 @@
 * Owen Barfield:Romanticism Come of Age
   :PROPERTIES:
-  :CUSTOM_ID: owen-barfieldromanticism-come-of-age
+  :Title: Owen Barfield:Romanticism Come of Age
   :END:
 
 ** Simon Blaxland-de Lange
    :PROPERTIES:
-   :CUSTOM_ID: simon-blaxland-de-lange
+   :Author: Simon Blaxland-de Lange
+   :Publisher: Temple Lodge
+   :Date: 2006
    :END:
 
 Temple Lodge Publishing Hillside House, The Square Forest Row, RH18 5ES
