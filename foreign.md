@@ -2,7 +2,7 @@
 
 Notes for the book about Barfield’s/Harold’s notions about consciousness and the consequences of the same
 
-*The past is a foreign country; they do things differently there* L.P. Hartley, *The Go-Between* (1953)
+“The past is a foreign country; they do things differently there” L.P. Hartley, *The Go-Between* (1953)
 
 ## Quote Notes
 
@@ -44,11 +44,29 @@ Introduced by Bruce Charlton
 
 ### Carlo Rovelli
 
+Introduced by Amazon - poking around topics including Quantum Mechanics, Heisenberg, Schrodinger, etc.
+
 #### The Order of Time
 
 #### Seven Brief Lessons on Physics
 
 #### Reality is Not What it Seems
+
+#### Roger Penrose
+
+Introduced by WaPo - book review of The Emperor’s New Mind in 1989
+
+The Road to Reality
+
+The Emperor’s New Mind
+
+Shadows of the Mind
+
+Also linked to J.R. Lucas
+
+#### Julian Barbour
+
+The End of Time
 
 20201207
 
@@ -63,20 +81,6 @@ What are the consequences of accepting, and researching, the past with the under
 Polarity is a topic that he took from Coleridge.
 
 #### What Coleridge Thought
+
 Coleridge topics important to Barfield include imagination and polarity.
-
-### Science
-#### Physics
-##### Quantum Mechanics
-###### Carlo Rovelli
-The Order of Time
-Reality is Not What It Seems: The Journey to Quantum Gravity
-Seven Brief Lessons on Physics
-###### Roger Penrose
-The Road to Reality
-The Emperor’s New Mind
-Shadows of the Mind
-
-###### Julian Barbour
-The End of Time
-#### Consciousness
+	
