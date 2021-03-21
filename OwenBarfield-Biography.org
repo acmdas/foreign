@@ -1,3 +1,4 @@
+#+STARTUP: content
 * Owen Barfield:Romanticism Come of Age
   :PROPERTIES:
   :Title: Owen Barfield:Romanticism Come of Age
@@ -14,7 +15,8 @@ Temple Lodge Publishing Hillside House, The Square Forest Row, RH18 5ES
 
 2006
 
-Foreward Andrew Welbourn
+*** Foreward
+Andrew Welbourn
 
 The clash is especially clear in cases where Barfield sought to get at the reality of such myths as ancient Atlantis. He came to believe that the key to understanding that reality lay in the 'changing consciousness', as he liked to put it, of humanity over ages of historical time. The universality of the myths pointed to their basis in a kind of world-experience that was different from our own, but appealed deeply to our minds because it formed the very basis from which ours had evolved. Using his insight into the history of language, Barfield argued that abstract ideas were a late development in the way people thought about the world. But that did not mean that early humanity lived in an impoverished, confused, merely sensory landscape. Quite the contrary.
 

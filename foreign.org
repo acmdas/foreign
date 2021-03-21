@@ -1,3 +1,4 @@
+#+STARTUP: content
 * The Past Is A Foreign Country
 
 Notes for the book about Barfield’s/Harold’s notions about consciousness and the consequences of the same.
@@ -5,6 +6,7 @@ Notes for the book about Barfield’s/Harold’s notions about consciousness and
 “The past is a foreign country; they do things differently there”—L.P. Hartley, /The Go-Between/ (1953)
 
 ** Quote Notes
+
 
 Leslie Poles Hartley was born on 30 December, 1895 in Whittlesey, Cambridgeshire.
 
@@ -140,7 +142,7 @@ Shadows of the Mind
      
 Also linked to J.R. Lucas
 
-**** Julian Barbour
+*** Julian Barbour
      :PROPERTIES:
      :Author: Julian Barbour
      :END:
@@ -153,6 +155,7 @@ The End of Time
      :END:
 
 ** Notes
+
 
 20201207
 
@@ -177,9 +180,9 @@ And how foreign was Plato and Aristotle, Cicero and Caesar Augustus? Can we unde
 
 How 'past' does it have to be to be foreign? Descartes? Voltaire? Thomas Jefferson? Lincoln? Marx? Woodrow Wilson? FDR? Kennedy? Can I, in 2021, understand what Kennedy said when I was a teen-ager? Can my kids? Or what Reagan said when I was in my thirties? Or what I said or wrote when young or middle-aged? Can I throw my mind back to the person that I was then? Or is it an issue—is the answer “of course, why not?”
 
-Does it matter? Can we either ignore the past, or reinterpret it by reading everything as it it had been written yesterday? Or today? What would we gain, or lose, if we do?
+Does it matter? Can we either ignore the past, or reinterpret it by reading everything as if it had been written yesterday? Or today? What would we gain, or lose, if we do?
 
-And what about today, which will be the foreign past to tomorrow? Our Science Fiction stories project people like us into the near or far future, and we wonder whether the space ships, laser weapons, faster-than-light travel, wars with aliens are in any way “realistic.” Do we ever ask ourselves how realistic it is to expect those future people to think just like us, for our consciousness to never evolve? Or to have never evolved to bring us to who we are today? It’s easy to say, “Certainly, our minds are evolved from our Homo Erectus ancestors of a million years ago.” It gets trickier, though, when we get to Homo Sapiens. We have been “modern humans” for hundreds of thousands of years (just how many depends on which expert you ask). Have we always thought the way we do now?
+And what about today, which will be the foreign past to tomorrow? Our Science Fiction stories project people like us into the near or far future, and we wonder whether the space ships, laser weapons, faster-than-light travel, wars with aliens are in any way “realistic.” Do we ever ask ourselves how realistic it is to expect those future people to think just like we do, for our consciousness to never evolve? Or to have never evolved to bring us to who we are today? It’s easy to say, “Certainly, our minds are evolved from our Homo Erectus ancestors of a million years ago.” It gets trickier, though, when we get to Homo Sapiens. We have been “modern humans” for hundreds of thousands of years (just how many depends on which expert you ask). Have we always thought the way we do now?
 
 How could we know? All we have of Homo Erectus is some bones and stone tools. We can surmise that there was enough consciousness to make those tools, but nothing that can tell us much about that consciousness. Homo Sapiens? For most of those hundreds of thousands of years, the situation is much the same—some bones, some tools, and some context—ashes that indicate the use of fire, animal bones that indicate the ability to hunt. Perhaps carefully arranged bones of a woman and an infant that suggests relationship and possibly belief in an afterlife. Still, precious little to base a “they were just like us/they were completely different from us” judgement.
 
@@ -187,11 +190,11 @@ Looking ahead with current idealist philosophy, psychology of consciousness, lea
 
 20210221
 
-I’m sitting at my old, brown wooden desk, my old computer keyboard at hand, a bright winter afternoon light coming in the window. That I know—sort of. Being moderately well-educated in the 21st century, I know that the desk, the keyboard, the window, even the light aren’t “really” anything like I envision them. They (with the exception of the sunlight) are all mostly open space with infinitismal atoms spaced out—except that the atoms are in fact mostly open space with protons, neutrons and electrons—except protons, neutrons and electrons are in fact bundles of even smaller subatomic particles—except ultimately none of them really exist if we look closely enough. For over a century, we’ve known—or at least a century ago some of our leading physicists knew and those of us who are just “moderately well-educated” have gotten a glimmer of knowing—that ultimately there are only “quantum events”. And one of those leading physicists a century ago who led the development of quantum theory, Niels Bohr, has said, “Those who are not shocked when they first come across quantum theory cannot possibly have understood it." And Richard Feynman, another of the physicists who has played a fundamental role in developing quantum mechanics, has said, “If you think you understand quantum mechanics, you don't understand quantum mechanics.” 
+I’m sitting at my old, brown wooden desk, my old computer keyboard at hand, a bright winter afternoon light coming in the window. That I know—sort of. Being moderately well-educated in the mid 20th century, I know that the desk, the keyboard, the window, even the light aren’t “really” anything like I envision them. They (with the possible exception of the sunlight) are all mostly open space with infinitismal atoms spaced out—except that the atoms are in fact mostly open space with protons, neutrons and electrons—except protons, neutrons and electrons are in fact bundles of even smaller subatomic particles—except ultimately none of them really exist if we look closely enough. For over a century, we’ve known—or at least a century ago some of our leading physicists knew and those of us who are just “moderately well-educated” have gotten a glimmer of knowing—that ultimately there are only “quantum events”. And one of those leading physicists a century ago who led the development of quantum theory, Niels Bohr, has said, “Those who are not shocked when they first come across quantum theory cannot possibly have understood it." And Richard Feynman, another of the physicists who has played a fundamental role in developing quantum mechanics, has said, “If you think you understand quantum mechanics, you don't understand quantum mechanics.” 
 
 And recently, Italian physicist Carlo Rovelli has said that, at the quantum level, that is, at it’s basic level, there not only isn’t anything like what we think of as matter—there isn’t even time as we now it. “We cannot think of the physical world as if it were made of things, of entities. It simply doesn’t work.” “The world is not a collection of things, it is a collection of events.”
 
-Because I’m a moderately well-educated I’ve gotten accustomed to living with the idea that the light coming in my window took 8 minutes to get from the sun to my eyes going 186,000 miles a second, and that starlight takes at least years, perhaps millions of years to arrive. And that there are more atoms of water in the glass at my elbow than there are stars in the Milky Way, and that my desktop is mostly empty space. I’ve known these things most of my life, and I have no problem acting as if none of it were true. I swallow a sip of water, not trillions of atoms of hydrogen and oxygen, and set the glass on my solid desktop, and watch the sun dip below the horizon as night falls. Yes, I’m a master of ambiguity.
+Because I’m a moderately well-educated I’ve gotten accustomed to living with the idea that the light coming in my window took 8 minutes to get from the sun to my eyes going 186,000 miles a second, and that starlight takes at least years, perhaps millions of years to arrive. And that there are more atoms of water in the glass at my elbow than there are stars in the Milky Way, and that my desktop is mostly empty space. I’ve known these things most of my life, and I have no problem acting as if none of it were true. I swallow a sip of water, not trillions of molecules made up of two atoms of hydrogen and one of oxygen, and set the glass on my solid desktop, and watch the sun dip below the horizon as night falls. Yes, I’m a master of ambiguity.
 
 And there’s really no other way for me to behave, being a human being in the third decade of the twenty-first century. But still, every now and then I wonder just how it is that “I” create the world that I occupy out of that sea of quantum events. And more than that, that the world that “I” create seems to be so very similar to the world that you create.
 
@@ -209,3 +212,8 @@ Saw an article on The Feynman Technique and it struck me that I might use it to 
 4. Transmit (optional).
 
 There was a time that I was pretty good at “instructional design” - maybe I could be again?
+
+** Text
+*** Introduction
+
+Today’s besetting sin, at least for those of us born or trained into Modern Western ways of thought, is Pride. I suppose that I’ve identified myself as having been thus born or trained by being so bold as to declare what “our” besetting sin “is”, and so I must continue by justifying this claim.
