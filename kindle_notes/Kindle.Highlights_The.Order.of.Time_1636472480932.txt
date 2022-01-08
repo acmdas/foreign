@@ -1,0 +1,491 @@
+The Order of Time
+Carlo Rovelli
+
+PERHAPS TIME IS THE GREATEST MYSTERY
+LOCATION: 56
+
+Reality is often very different from what it seems. The Earth appears to be flat but is in fact spherical. The sun seems to revolve in the sky when it is really we who are spinning. Neither is the structure of time what it seems to be: it is different from this uniform, universal flowing. I discovered this, to my utter astonishment, in the physics books I read as a university student: time works quite differently from the way it seems to.
+LOCATION: 66
+
+One by one, we discover the constituent parts of the time that is familiar to us—not, now, as elementary structures of reality, but rather as useful approximations for the clumsy and bungling mortal creatures we are: aspects of our perspective, and aspects, too, perhaps, that are decisive in determining what we are. Because the mystery of time is ultimately, perhaps, more about ourselves than about the cosmos.
+LOCATION: 97
+
+PART 1 THE CRUMBLING OF TIME
+LOCATION: 104
+
+1 LOSS OF UNITY
+LOCATION: 106
+
+THE SLOWING DOWN OF TIME
+LOCATION: 110
+
+The ability to understand something before it’s observed is at the heart of scientific thinking.
+LOCATION: 121
+
+In the course of making such strides, we learn that the things that seemed self-evident to us were really no more than prejudices.
+LOCATION: 125
+
+TEN THOUSAND DANCING SHIVAS
+LOCATION: 149
+
+“According to the order of time” (κατὰ τὴν τοῦ χρόνου τάξιν). From one of the crucial, initial moments of natural science there remains nothing but these obscure, arcanely resonant words, this appeal to the “order of time.”
+LOCATION: 155
+
+But if different clocks mark different times, as we have seen above, what does t indicate?
+LOCATION: 165
+
+Einstein has given us the equations that describe how proper times develop relative to each other. He has shown us how to calculate the difference between two times.
+LOCATION: 176
+
+Physics does not describe how things evolve “in time” but how things evolve in their own times, and how “times” evolve relative to each other.*
+LOCATION: 183
+
+2 LOSS OF DIRECTION
+LOCATION: 188
+
+WHERE DOES THE ETERNAL CURRENT COME FROM?
+LOCATION: 196
+
+Past and future are different from each other. Cause precedes effect. Pain comes after a wound, not before it. The glass shatters into a thousand pieces, and the pieces do not re-form into a glass. We cannot change the past; we can have regrets, remorse, memories. The future instead is uncertainty, desire, anxiety, open space, destiny, perhaps. We can live toward it, shape it, because it does not yet exist. Everything is still possible. . . . Time is not a line with two equal directions: it is an arrow with different extremities.
+LOCATION: 205
+
+What exactly is this flowing? Where is it nestled in the grammar of the world? What distinguishes the past, its having been, from the future, its not having been yet, in the folds of the mechanism of the world? Why, to us, is the past so different from the future?
+LOCATION: 212
+
+The difference between past and future, between cause and effect, between memory and hope, between regret and intention . . . in the elementary laws that describe the mechanisms of the world, there is no such difference.
+LOCATION: 215
+
+HEAT
+LOCATION: 218
+
+If nothing else around it changes, heat cannot pass from a cold body to a hot one. The crucial point here is the difference from what happens with falling bodies: a ball may fall, but it can also come back up, by rebounding, for instance. Heat cannot. This is the only basic law of physics that distinguishes the past from the future.
+LOCATION: 236
+
+In the elementary equations of the world,13 the arrow of time appears only where there is heat.* The link between time and heat is therefore fundamental: every time a difference is manifested between the past and the future, heat is involved.
+LOCATION: 244
+
+Clausius’s entropy, indicated by the letter S, is a measurable and calculable quantity15 that increases or remains the same but never decreases, in an isolated process. In order to indicate that it never decreases, we write: ΔS ≥ 0
+LOCATION: 260
+
+It is the only equation of fundamental physics that knows any difference between past and future. The only one that speaks of the flowing of time.
+LOCATION: 267
+
+BLUR
+LOCATION: 270
+
+The notion of “particularity” is born only at the moment we begin to see the universe in a blurred and approximate way.
+LOCATION: 313
+
+Heat, entropy, and the lower entropy of the past are notions that belong to an approximate, statistical description of nature.
+LOCATION: 315
+
+The difference between past and future is deeply linked to this blurring. . . . So if I could take into account all the details of the exact, microscopic state of the world, would the characteristic aspects of the flowing of time disappear? Yes. If I observe the microscopic state of things, then the difference between past and future vanishes.
+LOCATION: 316
+
+There are regularities, represented by what we call physical laws, that link events of different times, but they are symmetric between future and past. In a microscopic description, there can be no sense in which the past is different from the future.*
+LOCATION: 322
+
+Even allowing for the fact that our perceptions of the world are frequently wrong, can the world really be so profoundly different from our perception of it as this?
+LOCATION: 330
+
+For now, I will end with the mind-boggling fact that entropy, as Boltzmann fully understood, is nothing other than the number of microscopic states that our blurred vision of the world fails to distinguish.
+LOCATION: 335
+
+Time has lost another of its crucial components: the intrinsic difference between past and future. Boltzmann understood that there is nothing intrinsic about the flowing of time. That it is only the blurred reflection of a mysterious improbability of the universe at a point in the past.
+LOCATION: 341
+
+3 THE END OF THE PRESENT
+LOCATION: 348
+
+SPEED ALSO SLOWS DOWN TIME
+LOCATION: 355
+
+“Proper time” depends not only on where you are and your degree of proximity to masses; it depends also on the speed at which you move.
+LOCATION: 382
+
+“NOW” MEANS NOTHING
+LOCATION: 385
+
+The notion of “the present” refers to things that are close to us, not to anything that is far away. Our “present” does not extend throughout the universe. It is like a bubble around us.
+LOCATION: 411
+
+The idea that a well-defined now exists throughout the universe is an illusion, an illegitimate extrapolation of our own experience.29 It is like the point where the rainbow touches the forest. We think that we can see it—but if we go to look for it, it isn’t there.
+LOCATION: 420
+
+TEMPORAL STRUCTURE WITHOUT THE PRESENT
+LOCATION: 427
+
+Mathematicians have a term for the order established by filiation: “partial order.” A partial order establishes a relation of before and after between certain elements, but not between any two of them.
+LOCATION: 439
+
+Special relativity is the discovery that the temporal structure of the universe is like the one established by filiation: it defines an order between the events of the universe that is partial, not complete. The expanded present is the set of events that are neither past nor future: it exists, just as there are human beings who are neither our descendants nor our forebears.
+LOCATION: 450
+
+If the present has no meaning, then what “exists” in the universe? Is not what “exists” precisely what is here “in the present”? The whole idea that the universe exists now in a certain configuration and changes together with the passage of time simply doesn’t stack up anymore.
+LOCATION: 492
+
+4 LOSS OF INDEPENDENCE
+LOCATION: 495
+
+WHAT HAPPENS WHEN NOTHING HAPPENS?
+LOCATION: 498
+
+Time is only a way of measuring how things change, as Aristotle would have it—or should we be thinking that an absolute time exists that flows by itself, independently of things? The question we should really be asking is this: Which of these two ways of thinking about time helps us to understand the world better? Which of the two conceptual schemes is more efficient?
+LOCATION: 578
+
+Clocks, for Newton, are devices that seek, albeit in a manner that is always imprecise, to follow this equal and uniform flowing of time. Newton writes that this “absolute, true, and mathematical” time is not perceptible. It must be deduced, through calculation and observation, from the regularity of phenomena. Newton’s time is not the evidence given to us by our senses: it is an elegant intellectual construction. If, my dear cultivated reader, the existence of this Newtonian concept of time which is independent of things seems to you simple and natural, it’s because you encountered it at school. Because it has gradually become the way in which we all think about time.
+LOCATION: 591
+
+Before Newton, time for humanity was the way of counting how things changed. Before him, no one had thought it possible that a time independent of things could exist. Don’t take your intuitions and ideas to be “natural”: they are often the products of the ideas of audacious thinkers who came before us.
+LOCATION: 603
+
+WHAT IS THERE, WHERE THERE IS NOTHING?
+LOCATION: 609
+
+Aristotle was the first to discuss in depth and with acuity the meaning of “space,” or “place,” and to arrive at a precise definition: the place of a thing is what surrounds that thing.
+LOCATION: 614
+
+The space defined by Aristotle, the enumeration of what surrounds each thing, is called “relative, apparent, and common” by Newton. He calls “absolute, true, and mathematical” space in itself, which exists even where there is nothing.
+LOCATION: 617
+
+In the end, Aristotle and Newton do not engage in profound metaphysics: they are only using these two different intuitive and ingenious ways of seeing the world around us—taking or not taking air into account—and transforming them into definitions of space.
+LOCATION: 630
+
+The existence of a complete void, without any physical entity except amorphous space, “absolute, true, and mathematical,” remains a brilliant theoretical idea introduced by Newton to found his physics on, for there is no scientific, experimental evidence to support its existence.
+LOCATION: 640
+
+THE DANCE OF THE THREE GIANTS
+LOCATION: 649
+
+The synthesis between Aristotle’s time and Newton’s is the most valuable achievement made by Einstein. It is the crowning jewel of his thought.
+LOCATION: 649
+
+Time and space are real phenomena. But they are in no way absolute; they are not at all independent from what happens; they are not as different from the other substances of the world, as Newton had imagined them to be.
+LOCATION: 651
+
+Physicists call “fields” the substances that, to the best of our knowledge, constitute the weave of the physical reality of the world.
+LOCATION: 655
+
+Spacetime is the gravitational field—and vice versa.
+LOCATION: 661
+
+Equations describe the reciprocal influences that all the fields have on each other, and spacetime is one of these fields.*
+LOCATION: 665
+
+5 QUANTA OF TIME
+LOCATION: 697
+
+GRANULARITY
+LOCATION: 720
+
+The “quantization” of time implies that almost all values of time t do not exist. If we could measure the duration of an interval with the most precise clock imaginable, we should find that the time measured takes only certain discrete, special values. It is not possible to think of duration as continuous.
+LOCATION: 731
+
+In other words, a minimum interval of time exists. Below this, the notion of time does not exist—even in its most basic meaning.
+LOCATION: 734
+
+Granularity is ubiquitous in nature: light is made of photons, the particles of light. The energy of electrons in atoms can acquire only certain values and not others. The purest air is granular, and so, too, is the densest matter.
+LOCATION: 739
+
+The spatial sister of Planck time is Planck length: the minimum limit below which the notion of length becomes meaningless. Planck length is around 10-33 centimeters: a millionth of a billionth of a billionth of a billionth of a millimeter.
+LOCATION: 749
+
+QUANTUM SUPERPOSITIONS OF TIMES
+LOCATION: 756
+
+The second discovery made by quantum mechanics is indeterminacy: it is not possible to predict exactly, for instance, where an electron will appear tomorrow. Between one appearance and another, the electron has no precise position,55 as if it were dispersed in a cloud of probability. In the jargon of physicists, we say that it is in a “superposition” of positions.
+LOCATION: 757
+
+Even the distinction between present, past, and future thus becomes fluctuating, indeterminate. Just as a particle may be diffused in space, so, too, the differences between past and future may fluctuate: an event may be both before and after another one.
+LOCATION: 765
+
+RELATIONS
+LOCATION: 767
+
+Indeterminacy is resolved when a quantity interacts with something else.*
+LOCATION: 769
+
+Concreteness occurs only in relation to a physical system: this, I believe, is the most radical discovery made by quantum mechanics.*
+LOCATION: 774
+
+It is hard to take in the idea that an electron behaves in such a bizarre way. It is even more difficult to digest that this is also the way time and space behave. And yet, according to all the evidence, this is the way the quantum world works: the world that we inhabit.
+LOCATION: 781
+
+The physical substratum that determines duration and physical intervals—the gravitational field—does not only have a dynamic influenced by masses; it is also a quantum entity that does not have determined values until it interacts with something else. When it does, the durations are granular and determinate only for that something with which it interacts; they remain indeterminate for the rest of the universe.
+LOCATION: 783
+
+Let me reprise the long dive into the depths made in the first part of this book. There is no single time: there is a different duration for every trajectory; and time passes at different rhythms according to place and according to speed. It is not directional: the difference between past and future does not exist in the elementary equations of the world; its orientation is merely a contingent aspect that appears when we look at things and neglect the details. In this blurred view, the past of the universe was in a curiously “particular” state. The notion of the “present” does not work: in the vast universe there is nothing that we can reasonably call “present.” The substratum that determines the duration of time is not an independent entity, different from the others that make up the world; it is an aspect of a dynamic field. It jumps, fluctuates, materializes only by interacting, and is not to be found beneath a minimum scale. . . . So, after all this, what is left of time?
+LOCATION: 790
+
+PART II THE WORLD WITHOUT TIME
+LOCATION: 801
+
+6 THE WORLD IS MADE OF EVENTS, NOT THINGS
+LOCATION: 803
+
+None of the pieces that time has lost (singularity, direction, independence, the present, continuity) puts into question the fact that the world is a network of events.
+LOCATION: 812
+
+The absence of the quantity “time” in the fundamental equations does not imply a world that is frozen and immobile. On the contrary, it implies a world in which change is ubiquitous, without being ordered by Father Time;
+LOCATION: 814
+
+The events of the world do not form an orderly queue, like the English. They crowd around chaotically, like Italians.
+LOCATION: 816
+
+The fundamental equations do not include a time variable, but they do include variables that change in relation to each other. Time, as Aristotle suggested, is the measure of change; different variables can be chosen to measure that change, and none of these has all the characteristics of time as we experience it.
+LOCATION: 820
+
+We can think of the world as made up of things. Of substances. Of entities. Of something that is. Or we can think of it as made up of events. Of happenings. Of processes. Of something that occurs.
+LOCATION: 824
+
+Thinking of the world as a collection of events, of processes, is the way that allows us to better grasp, comprehend, and describe it. It is the only way that is compatible with relativity. The world is not a collection of things, it is a collection of events.
+LOCATION: 828
+
+On closer inspection, in fact, even the things that are most “thinglike” are nothing more than long events. The hardest stone, in the light of what we have learned from chemistry, from physics, from mineralogy, from geology, from psychology, is in reality a complex vibration of quantum fields, a momentary interaction of forces, a process that for a brief moment manages to keep its shape, to hold itself in equilibrium before disintegrating again into dust, a brief chapter in the history of interactions between the elements of the planet, a trace of Neolithic humanity, a weapon used by a gang of kids, an example in a book about time, a metaphor for an ontology, a part of a segmentation of the world that depends more on how our bodies are structured to perceive than on the object of perception—and, gradually, an intricate knot in that cosmic game of mirrors that constitutes reality. The world is not so much made of stones as of fleeting sounds, or of waves moving through the sea.
+LOCATION: 834
+
+We cannot think of the physical world as if it were made of things, of entities. It simply doesn’t work.
+LOCATION: 844
+
+What works instead is thinking about the world as a network of events. Simple events, and more complex events that can be disassembled into combinations of simpler ones.
+LOCATION: 845
+
+We therefore describe the world as it happens, not as it is. Newton’s mechanics, Maxwell’s equations, quantum mechanics, and so on, tell us how events happen, not how things are.
+LOCATION: 875
+
+“Things” in themselves are only events that for a while are monotonous.
+LOCATION: 879
+
+7 THE INADEQUACY OF GRAMMAR
+LOCATION: 886
+
+Change, what happens—this is not an illusion. What we have discovered is that it does not follow a global order.
+LOCATION: 932
+
+The grammar of many modern languages conjugates verbs in the “present,” “past,” and “future” tense. It is not well-adapted for speaking about the real temporal structure of reality, which is more complex.
+LOCATION: 946
+
+What confuses us when we seek to make sense of the discovery that no objective universal present exists is only the fact that our grammar is organized around an absolute distinction—“past/present/future”—that is only partially apt, here in our immediate vicinity.
+LOCATION: 949
+
+We must not allow ourselves to be confused by an inadequate grammar. There is a text from the world of antiquity that refers to the spherical shape of the Earth in the following way: For those standing below, things above are below, while things below are above . . . and this is the case around the entire earth.
+LOCATION: 953
+
+We are in the same situation. We are struggling to adapt our language and our intuition to a new discovery: the fact that “past” and “future” do not have a universal meaning. Instead, they have a meaning that changes between here and there. That’s all there is to it.
+LOCATION: 964
+
+8 DYNAMICS AS RELATION
+LOCATION: 984
+
+How does one describe a world in which everything occurs but there is no time variable?
+LOCATION: 989
+
+In the simplest way, the same way that we had thought about the world until Newton convinced us all that a variable time was indispensable.
+LOCATION: 990
+
+What are required are variables that actually describe it: quantities that we can perceive, observe, and eventually measure.
+LOCATION: 992
+
+These are the terms in which we describe the world. Quantities and properties that we see continuously changing. In these changes there are regularities: a stone falls faster than a feather. Sun and moon circle after each other in the sky, passing by each other once a month. . . . Among these quantities there are some that we see changing regularly with respect to others: the number of days, the phases of the moon, the height of the sun on the horizon, the position of the hands of a clock. It is useful to employ these as points of reference: let’s meet three days after the next full moon, when the sun is at its highest in the sky.
+LOCATION: 995
+
+If we find a sufficient number of variables that remain synchronized enough in relation to each other, it is convenient to use them in order to speak of when.
+LOCATION: 1000
+
+There is no need in any of this to choose a privileged variable and call it “time.” What we need, if we want to do science, is a theory that tells us how the variables change with respect to each other. That is to say, how one changes when others change. The fundamental theory of the world must be constructed in this way; it does not need a time variable: it needs to tell us only how the things that we see in the world vary with respect to each other. That is to say, what the relations may be between these variables.
+LOCATION: 1002
+
+The fundamental equations of quantum gravity are effectively formulated like this: they do not have a time variable, and they describe the world by indicating the possible relations between variable quantities.
+LOCATION: 1006
+
+In 1967, an equation accounting for quantum gravity was written for the first time without any time variable.
+LOCATION: 1008
+
+There is nothing mysterious about the absence of time in the fundamental equation of quantum gravity. It is only the consequence of the fact that, at the fundamental level, no special variable exists.
+LOCATION: 1016
+
+The theory does not describe how things evolve in time. The theory describes how things change one in respect to the others,72 how things happen in the world in relation to each other. That’s all there is to it.
+LOCATION: 1017
+
+Thoughts and emotions that create bonds of attachment between us have no difficulty in crossing seas and decades, sometimes even centuries, tied to thin sheets of paper or dancing between the microchips of a computer. We are part of a network that goes far beyond the few days of our lives and the few square meters that we tread. This book is also a part of that weave.
+LOCATION: 1043
+
+It’s the elementary form of the mechanics of the world, and it does not need to mention “time.” The world without a time variable is not a complicated one.
+LOCATION: 1048
+
+ELEMENTARY QUANTUM EVENTS AND SPIN NETWORKS
+LOCATION: 1052
+
+Loop theory is not a “unified theory of everything.” It doesn’t even begin to claim that it’s the ultimate theory of science. It’s a theory made up of coherent but distinct parts. It seeks to be “only” a coherent description of the world as we understand it so far.
+LOCATION: 1056
+
+The fields manifest themselves in granular form: elementary particles, photons, and quanta of gravity—or rather “quanta of space.” These elementary grains do not exist immersed in space; rather, they themselves form that space. The spatiality of the world consists of the web of their interactions. They do not dwell in time: they interact incessantly with each other, and indeed exist only in terms of these incessant interactions. And this interaction is the happening of the world: it is the minimum elementary form of time that is neither directional nor linear.
+LOCATION: 1058
+
+We cannot draw a complete map, a complete geometry, of everything that happens in the world, because such happenings—including among them the passage of time—are always triggered only by an interaction with, and with respect to, a physical system involved in the interaction. The world is like a collection of interrelated points of view. To speak of the world “seen from outside” makes no sense, because there is no “outside” to the world.
+LOCATION: 1065
+
+The relations of spatial adjacency tie the grains of space into webs. We call these “spin networks.” The name “spin” comes from the mathematics that describe the grains of space.75 A ring in the spin network is called a “loop,” and these are the loops that give “loop theory” its name.
+LOCATION: 1072
+
+NOTE: See "Reality is not what it seems" Rovelli
+LOCATION: 1076
+
+In a theory of this kind, time and space are no longer containers or general forms of the world. They are approximations of a quantum dynamic that in itself knows neither space nor time. There are only events and relations. It is the world without time of elementary physics.
+LOCATION: 1092
+
+PART III THE SOURCES OF TIME
+LOCATION: 1095
+
+9 TIME IS IGNORANCE
+LOCATION: 1097
+
+If, in the elementary dynamic of the world, all the variables are equivalent, what is this thing that we humans call “time”? What is it that my watch measures? What is it that always runs forward, and never backward—and why? It may not be part of the elementary grammar of the world, but what is it?
+LOCATION: 1104
+
+There are so many things that are not part of the elementary grammar of the world and that simply “emerge” in some way.
+LOCATION: 1106
+
+This dense marble table would look like a fog if I were shrunk to a small enough, atomic scale. Everything in the world becomes blurred when seen close up. Where exactly does the mountain end and where do the plains begin? Where does the savannah begin and the desert end? We cut the world into large slices. We think of it in terms of concepts that are meaningful for us, that emerge at a certain scale.
+LOCATION: 1118
+
+In these examples, something that is real—a cat, a football team, high and low, the surface of clouds, the rotation of the cosmos—emerges from a world that at a much simpler level has no cats, teams, up or down, no surfaces of clouds, no revolving cosmos. . . . Time emerges from a world without time, in a way that has something in common with each of these examples.
+LOCATION: 1125
+
+THERMAL TIME
+LOCATION: 1130
+
+Between energy and time there is a close bond. They form one of those characteristic couples of quantities that physicists call “conjugate,” such as position and momentum, or orientation and angular momentum. The two terms of these couples are tied to each other. On the one hand, knowing what the energy of a system may be78—how it is linked to the other variables—is the same as knowing how time flows, because the equations of evolution in time follow from the form of its energy.79 On the other, energy is conserved in time, hence it cannot vary, even when everything else varies.
+LOCATION: 1131
+
+But there is another way of thinking about this same relationship: by reading it in reverse. That is, to observe that a macroscopic state, which is to say a blurred vision of the world, may be interpreted as a mingling that preserves an energy, and this in its turn generates a time.
+LOCATION: 1145
+
+I’ll repeat this point, because it is a key one: a macroscopic state (which ignores the details) chooses a particular variable that has some of the characteristics of time.
+LOCATION: 1151
+
+Time that is determined in this way by a macroscopic state is called “thermal time.”
+LOCATION: 1158
+
+From a microscopic point of view, there is nothing special about it—it is a variable like any other. But from a macroscopic one, it has a crucial characteristic: among so many variables all at the same level, thermal time is the one with behavior that most closely resembles the variable we usually call “time,” because its relations with the macroscopic states are exactly those that we know from thermodynamics.
+LOCATION: 1159
+
+But it is not a universal time. It is determined by a macroscopic state, that is, by a blurring, by the incompleteness of a description.
+LOCATION: 1162
+
+QUANTUM TIME
+LOCATION: 1164
+
+Roger Penrose is among the most lucid of those scientists who have focused on space and time.83 He reached the conclusion that the physics of relativity is not incompatible with our experience of the flowing of time but that it does not seem sufficient to account for it. He has suggested that what’s missing might be what happens in a quantum interaction.
+LOCATION: 1164
+
+When an interaction renders the position of a molecule concrete, the state of the molecule is altered. The same applies for its speed. If what materializes first is the speed and then the position, the state of the molecule changes in a different way than if the order of the two events were reversed. The order matters. If I measure the position of an electron first and then its speed, its state changes differently than if I were to measure its velocity first and then its position.
+LOCATION: 1169
+
+This is called the “noncommutativity” of the quantum variables, because position and speed “do not commute,” that is to say, they cannot exchange order with impunity. This noncommutativity is one of the characteristic phenomena of quantum mechanics. Noncommutativity determines an order and, consequently, a germ of temporality in the determination of two physical variables.
+LOCATION: 1173
+
+Connes has provided a refined mathematical version of this idea: he has shown that a kind of temporal flow is implicitly defined by the noncommutativity of the physical variables. Due to this noncommutativity, the set of physical variables in a system defines a mathematical structure called “noncommutative von Neumann algebra,” and Connes has shown that these structures have within themselves an implicitly defined flow.
+LOCATION: 1180
+
+Surprisingly, there is an extremely close relation between Alain Connes’s flow for quantum systems and the thermal time that I have discussed above. Connes has shown that, in a quantum system, the thermal flows determined by different macroscopic states are equivalent, up to certain internal symmetries,86 and that, together, they form precisely the Connes flow.87 Put more simply: the time determined by macroscopic states and the time determined by quantum noncommutativity are aspects of the same phenomenon. And it is this thermal and quantum time, I believe,88 that is the variable that we call “time” in our real universe, where a time variable does not exist at the fundamental level.
+LOCATION: 1183
+
+Both the sources of blurring—quantum indeterminacy, and the fact that physical systems are composed of zillions of molecules—are at the heart of time. Temporality is profoundly linked to blurring. The blurring is due to the fact that we are ignorant of the microscopic details of the world. The time of physics is, ultimately, the expression of our ignorance of the world. Time is ignorance.
+LOCATION: 1192
+
+Our blurred and indeterminate image of reality determines a variable, thermal time that turns out to have certain peculiar properties which begin to resemble what we call “time”: it is in the correct relation with equilibrium states.
+LOCATION: 1205
+
+Thermal time is tied to thermodynamics, and hence to heat, but does not yet resemble time as we experience it, because it does not distinguish between the past and the future, has no direction, and lacks what we mean when we speak of its flow. We have not yet reached the time of our own experience. The difference between the past and the future that is so important to us: Where does that come from?
+LOCATION: 1207
+
+10 PERSPECTIVE
+LOCATION: 1211
+
+The entire difference between past and future may be attributed solely to the fact that the entropy of the world was low in the past.
+LOCATION: 1216
+
+WE ARE THE ONES TURNING!
+LOCATION: 1222
+
+Between ourselves and the rest of the world there are physical interactions.
+LOCATION: 1224
+
+Only a very minute fraction of these variables does so; most of them do not react with us at all. They do not register us, and we do not register them.
+LOCATION: 1225
+
+Therefore, our vision of the world is blurred because the physical interactions between the part of the world to which we belong and the rest are blind to many variables.
+LOCATION: 1229
+
+From this blurring, the concepts of heat and entropy are born—and these are linked to the phenomena that characterize the flow of time.
+LOCATION: 1231
+
+This does not mean that blurring is a mental construct; it depends on actual, existing physical interactions.
+LOCATION: 1234
+
+The speed of an object is not a property of the object alone: it is a property of the object in relation to another object.
+LOCATION: 1236
+
+Speed is a property of an object with respect to another object. It is a relative quantity. The same is true for entropy. The entropy of A with regard to B counts the number of configurations of A that the physical interactions between A and B do not distinguish.
+LOCATION: 1240
+
+The entropy of the world does not depend only on the configuration of the world; it also depends on the way in which we are blurring the world, and this depends on what the variables of the world are that we interact with. That is to say, on the variables with which our part of the world interacts.
+LOCATION: 1244
+
+The entropy of the world in the far past appears very low to us. But this might not reflect the exact state of the world: it might regard the subset of the world’s variables with which we, as physical systems, have interacted.
+LOCATION: 1246
+
+This, which is a fact, opens up the possibility that it wasn’t the universe that was in a very particular configuration in the past. Perhaps instead it is us, and our interactions with the universe, that are particular.
+LOCATION: 1249
+
+The initial low entropy of the universe, and hence the arrow of time, may be more down to us than to the universe itself. This is the basic idea.
+LOCATION: 1251
+
+The rotation of the heavens is a perspective effect due to our particular way of moving on Earth, rather than a mysterious property of the dynamics of the universe. Something similar might be true for time’s arrow.
+LOCATION: 1255
+
+How can a particular interaction between us and the rest of the world determine a low initial entropy?
+LOCATION: 1259
+
+The same may be true for the entropy of the universe: perhaps it was in no particular configuration. Perhaps we are the ones who belong to a particular physical system with respect to which its state can be particular.
+LOCATION: 1268
+
+If a subset of the universe is special in this sense, then for this subset the entropy of the universe is low in the past, the second law of thermodynamics obtains; memories exist, traces are left—and there can be evolution, life, and thought.
+LOCATION: 1276
+
+Perhaps, therefore, the flow of time is not a characteristic of the universe: like the rotation of the heavens, it is due to the particular perspective that we have from our corner of it.
+LOCATION: 1281
+
+INDEXICALITY
+LOCATION: 1291
+
+Science aspires to objectivity, to a shared point of view about which it is possible to be in agreement. This is admirable, but we need to be wary about what we lose by ignoring the point of view from which we do the observing. In its anxious pursuit of objectivity, science must not forget that our experience of the world comes from within. Every glance that we cast toward the world is made from a particular perspective.
+LOCATION: 1292
+
+It is what philosophers call “indexicality”: the characteristic of certain words that have a different meaning every time they are used, a meaning determined by where, how, when, and by whom they are being spoken.
+LOCATION: 1302
+
+At the fundamental level, the world is a collection of events not ordered in time.
+LOCATION: 1328
+
+11 WHAT EMERGES FROM A PARTICULARITY
+LOCATION: 1347
+
+IT IS ENTROPY, NOT ENERGY, THAT DRIVES THE WORLD
+LOCATION: 1353
+
+TRACES AND CAUSES
+LOCATION: 1419
+
+12 THE SCENT OF THE MADELEINE
+LOCATION: 1461
+
+13 THE SOURCE OF TIME
+LOCATION: 1678
+
+THE SISTER OF SLEEP
+LOCATION: 1776
+
+20. S = k log W. S is the entropy, W is the number of microscopic states, or the corresponding volume of phase space, and k is just a constant, today called Boltzmann’s constant, that adjusts the (arbitrary) dimensions.
+LOCATION: 1927
